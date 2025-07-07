@@ -1,0 +1,10 @@
+{
+  "name": "@data-pipelines/runtime-core",
+  "version": "1.0.0",
+  "description": "Tanjiro's business",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["whatsapp", "bot", "plugins"],
+  "author": "TanjiroDev",
+  "license": "MIT"
+}
